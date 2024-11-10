@@ -9,7 +9,7 @@ CSS <br>
 JAVASCRIPT
 
 <h2>List of programs</h2>
-<h3>To-Do App</h3>To-Do App<br>
+<h3>To-Do App</h3> <br>
 <div align="center">
   
   ![Screenshot 2024-11-10 094534](https://github.com/user-attachments/assets/8730e231-07cf-4bbc-93d1-608c758387c9)
